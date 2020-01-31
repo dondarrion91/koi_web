@@ -4,4 +4,9 @@ body{
     box-sizing: border-box;
 }
 
+.container{
+    background-color: lightgray;
+}
+
+@import "header.scss";
 @import "info.scss";
